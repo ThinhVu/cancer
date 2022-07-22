@@ -1,5 +1,7 @@
 # cancer
 
+[En]
+
 - https://www.cancertutor.com/
 
 - https://www.amazon.com/Cancer-Outside-Ty-M-Bollinger/dp/0978806506
@@ -15,3 +17,9 @@
 - https://www.amazon.com/Chris-Beat-Cancer-Comprehensive-Naturally/dp/1401956114
 
 - ...
+
+
+[Vi]
+- https://newshop.vn/ung-thu-su-that-hu-cau-gian-lan-va-nhung-phuong-phap-chua-lanh-khong-doc-hai.html
+
+- https://newshop.vn/chris-giap-mat-voi-ung-thu.html
